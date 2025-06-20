@@ -1,0 +1,2 @@
+export const YOUR_REACT_NATIVE_APP_SUPABASE_URL = "https://kzqixqovlcocyzyrhqbi.supabase.co";
+export const YOUR_REACT_NATIVE_APP_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt6cWl4cW92bGNvY3l6eXJocWJpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAzNzI5OTYsImV4cCI6MjA2NTk0ODk5Nn0.Knm9WBI_DRuxn_vtRbjSkIBmyalzpciDbLD4qxTH8L4";
